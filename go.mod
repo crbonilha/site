@@ -1,4 +1,4 @@
-module github.com/me/my-new-blog
+module github.com/crbonilha/site
 
 go 1.13
 
