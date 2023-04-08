@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://lionfish-app-aw7d5.ondigitalocean.app"
+baseurl = "https://crbonilha.com"
 languageCode = "en-us"
 paginate = 5
 title = "crbonilha's blog"
