@@ -14,11 +14,3 @@ url = "https://github.com/crbonilha"
 
 [social.params]
 icon = "brand-github"
-
-[[social]]
-identifier = "instagram"
-name = "Instagram"
-url = "https://instagram.com/cristhian.bonilha"
-
-[social.params]
-icon = "brand-instagram"
