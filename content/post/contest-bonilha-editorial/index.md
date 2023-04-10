@@ -6,7 +6,7 @@ categories:
     - Editorial
 ---
 
-Olá maratonistas! Tive a honra de escrever os exercícios para o primeiro contest aberto ao público do URI, entitulado “Contest Bonilha”. Agradeço a oportunidade ao pessoal do portal, em especial ao apoio do Neilor e do Jean, e também ao maratonista Ricardo Oliveira, por revisar todos os exercícios e eventualmente corrigir o enunciado e/ou os arquivos de alguns deles.
+Olá maratonistas! Tive a honra de escrever os exercícios para o primeiro contest aberto ao público do URI, entitulado [Contest Bonilha](https://www.beecrowd.com.br/judge/pt/contests/view/4). Agradeço a oportunidade ao pessoal do portal, em especial ao apoio do Neilor e do Jean, e também ao maratonista Ricardo Oliveira, por revisar todos os exercícios e eventualmente corrigir o enunciado e/ou os arquivos de alguns deles.
 
 Parabéns aos melhores colocados do contest:
 - 1⁰ lugar: Marcos Kawakami
@@ -16,7 +16,7 @@ Parabéns aos melhores colocados do contest:
 Vou escrever um pequeno editorial com algumas dicas de resolução dos exercícios. Aconselho que leia o editorial apenas após tentar exaustivamente resolvê-los, e peço que me corrijam caso eu fale alguma bobagem.
 
 
-## [Hello Galaxy](https://www.beecrowd.com.br/judge/pt/problems/view/1515)
+## Hello Galaxy [beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1515)
 
 Como descobrir quando algum planeta enviou a mensagem?
 R: Subtraindo o tempo de viagem do ano de chegada.
@@ -24,7 +24,7 @@ R: Subtraindo o tempo de viagem do ano de chegada.
 Portanto o primeiro planeta a enviar é aquele que tem o menor valor em `tempoChegada – tempoViagem`.
 
 
-## [Competição](https://www.beecrowd.com.br/judge/pt/problems/view/1514)
+## Competição [beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1514)
 
 O enunciado pode parecer confuso, porém a solução para o exercício não esconde nenhum segredo: basta checar cada uma das características e imprimir o resultado.
 
@@ -37,14 +37,14 @@ Se houver ao menos uma coluna apenas com valores 0, esta característica é fals
 Os outros dois são bem semelhantes.
 
 
-## [Imagem](https://www.beecrowd.com.br/judge/pt/problems/view/1516)
+## Imagem [beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1516)
 
 Basta repetir cada linha A/N vezes, e cada coluna B/M vezes. Por exemplo, se N = 3 e A = 12, basta repetir cada linha 4 vezes, pois 3 linhas repetidas 4 vezes é igual a 12 linhas (3 * 4 = 12).
 
 O problema recai então na implementação da repetição. Há diversas maneiras de se implementar isso, então vou deixar o trecho do código sobre como eu implementei: https://github.com/crbonilha/codes/blob/master/imagem.cpp
 
 
-## [Azulejos](https://www.beecrowd.com.br/judge/pt/problems/view/1512)
+## Azulejos [beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1512)
 
 O objetivo deste exercício era apresentar o conceito de União de Conjuntos, mais especificamente a teoria da Inclusão-Exclusão.
 
@@ -69,7 +69,7 @@ Note, um número é múltiplo de A e de B se, e somente se, é múltiplo de MMC(
 Solução: `A + B – (A U B)`
 
 
-## [Maçãs](https://www.beecrowd.com.br/judge/pt/problems/view/1517)
+## Maçãs [beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1517)
 
 Na transição entre o tempo t e o tempo t+1, você pode fazer duas coisas: se mover ou ficar onde está. O problema está em decidir qual dessas escolhas vai lhe render o maior número possível de maçãs.
 
@@ -94,7 +94,7 @@ Se sim, podemos capturar ambas as maçãs. Se não, podemos capturar uma das dua
 Utilizando-se Programação Dinâmica, podemos reaproveitar alguns cálculos e testar todas as possibilidades.
 
 
-## [Cavalo](https://www.beecrowd.com.br/judge/pt/problems/view/1513)
+## Cavalo [beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1513)
 
 Este exercício se divide em dois problemas: descobrir o caminho mínimo entre cada uma das peças, considerando a particularidade do salto do cavalo; e descobrir qual a melhor sequência de captura de peões a ser seguida.
 
@@ -112,7 +112,7 @@ Tal estado pode ser utilizado para reaproveitar cálculos, e temos então nossa 
 Para mais detalhes pesquisem por Bitmask, Programação Dinâmica e Ciclo Hamiltoniano.
 
 
-## [Tartarugas](https://www.beecrowd.com.br/judge/pt/problems/view/1518)
+## Tartarugas [beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1518)
 
 Eis uma variação do exercício anterior. Temos que capturar desta vez tartarugas, porém as mesmas se movem, e é quase impossível reaproveitar cálculos aqui. Por sorte o número de tartarugas é baixo, e 3! não é uma complexidade assustadora.
 
