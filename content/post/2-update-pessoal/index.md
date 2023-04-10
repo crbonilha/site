@@ -1,5 +1,5 @@
 ---
-title: \#2 Update pessoal
+title: "#2 Update pessoal"
 slug: 2-update-pessoal
 date: 2014-11-10 00:00:00+0000
 categories:
