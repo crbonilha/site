@@ -1,5 +1,6 @@
 ---
 title: Contest Bonilha - Editorial
+description: "Olá maratonistas! Tive a honra de escrever os exercícios para o primeiro contest aberto ao público do URI, entitulado \"Contest Bonilha\"..."
 slug: contest-bonilha-editorial
 date: 2014-03-03 00:00:00+0000
 categories:

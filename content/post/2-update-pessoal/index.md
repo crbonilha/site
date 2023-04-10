@@ -1,5 +1,6 @@
 ---
 title: "#2 Update pessoal"
+description: "Este ano eu tive a oportunidade de contribuir com um exercício na fase Latino Americana da Maratona de Programação ACM-ICPC 2014..."
 slug: 2-update-pessoal
 date: 2014-11-10 00:00:00+0000
 categories:

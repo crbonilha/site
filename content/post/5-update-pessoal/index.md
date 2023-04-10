@@ -1,5 +1,6 @@
 ---
 title: "#5 Update pessoal"
+description: "Com uma nova formação, a equipe BugBusters, pelo terceiro ano seguido, conquistou uma vaga para a fase brasileira da Maratona de Programação..."
 slug: 5-update-pessoal
 date: 2017-10-16 00:00:00+0000
 categories:

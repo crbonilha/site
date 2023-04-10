@@ -1,5 +1,6 @@
 ---
 title: "#3 Update pessoal"
+description: "Neste último sábado eu tive o prazer de trazer 7 balões coloridos pra casa..."
 slug: 3-update-pessoal
 date: 2015-09-13 00:00:00+0000
 categories:

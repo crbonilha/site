@@ -1,5 +1,6 @@
 ---
 title: "#4 Update pessoal"
+description: "Com um time novo, neste sábado participei da competição mais acirrada que já vi..."
 slug: 4-update-pessoal
 date: 2016-09-12 00:00:00+0000
 categories:
