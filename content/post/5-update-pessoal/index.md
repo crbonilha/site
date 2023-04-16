@@ -1,17 +1,18 @@
 ---
 title: "#5 Update pessoal"
-description: "Com uma nova formação, a equipe BugBusters, pelo terceiro ano seguido, conquistou uma vaga para a fase brasileira da Maratona de Programação..."
+description: "BugBusters avançam para a fase regional 2017"
 slug: 5-update-pessoal
 date: 2017-10-16 00:00:00+0000
+image: "bugbusters-2017-cut.jpg"
 categories:
     - Update pessoal
 ---
 
 Com uma nova formação, a equipe BugBusters, pelo terceiro ano seguido, conquistou uma vaga para a fase brasileira da Maratona de Programação \o/
 
-TODO: add photo.
+![BugBusters 2017](bugbusters-2017.jpg)
 
-unknown, undefined, Edimar Bauer, Gabriel Teixeira, null, Cristhian Bonilha
+Gabriel Teixeira, Saulo Queiroz, Edimar Bauer, Cristhian Bonilha
 
 Resolvemos um total de 8 exercícios. Como de costume, deixamos alguns erros tolos nos impedir de resolver mais exercícios, mas isso faz parte :/
 

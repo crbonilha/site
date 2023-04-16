@@ -1,8 +1,9 @@
 ---
 title: "#2 Update pessoal"
-description: "Este ano eu tive a oportunidade de contribuir com um exercício na fase Latino Americana da Maratona de Programação ACM-ICPC 2014..."
+description: "Atuando como Problem Setter na fase regional 2014"
 slug: 2-update-pessoal
 date: 2014-11-10 00:00:00+0000
+image: "icpc-2014-cut.png"
 categories:
     - Update pessoal
 ---
@@ -13,7 +14,7 @@ A competição foi realizada em Fortaleza, mas como estou atualmente fazendo int
 
 A experiência se resume nessa foto:
 
-TODO: add photo.
+![Problem setters 2014](icpc-2014.png)
 
 Da esquerda para a direta: Bruno Adami, Lucas Adami, Ricardo Anido e Cristhian Bonilha 🙂
 

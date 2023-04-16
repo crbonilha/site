@@ -1,6 +1,5 @@
 ---
 title: Layout novo
-description: "Ano novo, layout novo. Já faziam alguns meses que o meu blog estava fora do ar por problemas técnicos, então resolvi começar do zero e procurar novas formas de manter ele..."
 slug: layout-novo
 date: 2023-04-08 00:00:00+0000
 ---

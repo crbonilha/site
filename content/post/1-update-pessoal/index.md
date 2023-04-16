@@ -1,6 +1,6 @@
 ---
 title: "#1 Update pessoal"
-description: "Olá. Quero fazer alguns comentários sobre o desempenho deste blog e alguns assuntos pessoais..."
+description: "Sobre o desempenho do blog"
 slug: 1-update-pessoal
 date: 2014-09-16 00:00:00+0000
 categories:

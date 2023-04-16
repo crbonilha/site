@@ -1,8 +1,9 @@
 ---
 title: "#4 Update pessoal"
-description: "Com um time novo, neste sábado participei da competição mais acirrada que já vi..."
+description: "BugBusters avançam para a fase regional 2016"
 slug: 4-update-pessoal
 date: 2016-09-12 00:00:00+0000
+image: "bugbusters-2016-cut.jpg"
 categories:
     - Update pessoal
 ---
@@ -11,7 +12,7 @@ Com um time novo, neste sábado participei da competição mais acirrada que já
 
 Eu, Edimar Bauer e Murilo Henrique lutamos pela única vaga cedida à sede de Curitiba, no Paraná, e por 23 minutos de diferença na penalidade de tempo ficamos em segundo lugar.
 
-TODO: add photo.
+![BugBusters 2016](bugbusters-2016.jpg)
 
 Murilo Henrique, Cristhian Bonilha e Edimar Bauer
 
