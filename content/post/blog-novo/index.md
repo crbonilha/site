@@ -1,5 +1,6 @@
 ---
 title: Layout novo
+description: Em construção...
 slug: layout-novo
 date: 2023-04-08 00:00:00+0000
 ---
