@@ -14,3 +14,11 @@ url = "https://github.com/crbonilha"
 
 [social.params]
 icon = "brand-github"
+
+[[social]]
+identifier = "codeforces"
+name = "Codeforces"
+url = "https://codeforces.com/profile/crbonilha"
+
+[social.params]
+icon = "code-forces"
