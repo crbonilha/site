@@ -22,3 +22,11 @@ url = "https://codeforces.com/profile/crbonilha"
 
 [social.params]
 icon = "code-forces"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/cristhian-bonilha-07359786/"
+
+[social.params]
+icon = "linkedin-social-media-svgrepo-com"
