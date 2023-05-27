@@ -14,27 +14,106 @@ Talvez demore um pouco pra eu achar todos, e talvez eu esqueça alguns.
 
 ### Fase regional da Maratona de Programação 2022
 
-* Números Virados - [Caderno de problems](http://maratona.sbc.org.br/hist/2022/primfase22/reports/problems/maratona.pdf) (problema N).
+* Números Virados - [Caderno de problemas](http://maratona.sbc.org.br/hist/2022/primfase22/reports/problems/maratona.pdf) (problema N).
 
 ### Fase regional da Maratona de Programação 2021
 
-* Escada Rolante - [Caderno de problems](http://maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf) (problema E).
+* Escada Rolante - [Caderno de problemas](http://maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf) (problema E).
 
-* Monarquia em Vertigem - [Caderno de problems](http://maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf) (problema M).
+* Monarquia em Vertigem - [Caderno de problemas](http://maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf) (problema M).
 
 ### Final brasileira da Maratona de Programação 2020
 
-* Keylogger - [Caderno de problems](http://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pdfs/contest.pdf) (problema K).
+* Keylogger - [Caderno de problemas](http://maratona.sbc.org.br/hist/2020/final20/resultados/contest/pdfs/contest.pdf) (problema K).
 
 ### Final brasileira da Maratona de Programação 2014
 
-* Intrepid Climber - [Caderno de problems](http://maratona.sbc.org.br/hist/2014/resultados14/icpcla2014/contest_onesided.pdf) (problema I).
+* Intrepid Climber - [Caderno de problemas](http://maratona.sbc.org.br/hist/2014/resultados14/icpcla2014/contest_onesided.pdf) (problema I).
+
+
+## Contest Natal 2017
+
+* Tempo do Duende - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2717).
+* Quantas Viagens Fará o Noel? - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2719).
+* Equilibrando Presentes - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2723).
+
+
+## XV Maratona Algar Telecom (2015)
+
+* Ataque Programado - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1792).
+* Escada Rolante - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1793).
+
+
+## Contest Sigma (2015)
+
+* Shuffle - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1770).
+* Preso no Castelo - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1773).
+
+
+## II Maratona FACE (2014)
+
+* Último Dano - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1627).
+* Variações - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1632).
+
+
+## XIV Maratona Algar Telecom (2014)
+
+* Labirinto - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1621).
+* Lâmpadas - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1622).
+* Baile de Formatura - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1616).
+
+
+## Seletiva UFPR 2014
+
+* Penalties - [SPOJ](https://br.spoj.com/problems/PENALTIE/).
+* Fliperama - [SPOJ](https://br.spoj.com/problems/FLIPERA2/).
+* Senha da Tia - [SPOJ](https://br.spoj.com/problems/SENHATIA/).
+
+
+## 8o Contest Noturno (2014)
+
+* Gravando CD's - [SPOJ](https://br.spoj.com/problems/GRAVACD/).
+* Soma Simples - [SPOJ](https://br.spoj.com/problems/SOMASI/).
+* Último a Saber - [SPOJ](https://br.spoj.com/problems/ULTIMO/).
+
+
+## Aquecimento para a OBI (2014)
+
+* Fila do Recreio - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1548).
+* Frase Completa - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1551).
+* Funções - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1555).
+* Perguntas mais Frequentes - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1553).
+
+
+## XIII Maratona Algar Telecom (2014)
+
+* Detetive Watson - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1533).
+* Arremesso de Bolas - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1532).
+* Fila do Banco - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1537).
+* Quadro Premiado - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1543).
+
+
+## Contest Delta (2014)
+
+* O Culpado - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1521).
+* Estacionamento Linear - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1523).
+* Gruntz - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1525).
+* Guildas - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1527).
+* Abreviações - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1519).
 
 
 ## Contest Bonilha (2014)
 
 O primeiro contest aberto ao público do antigo URI Online Judge (que hoje se chama BeeCrowd).
 Eu escrevi todos os problemas. [Link para o contest](https://www.beecrowd.com.br/judge/pt/contests/view/4).
+
+* Azulejos - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1512).
+* Cavalo - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1513).
+* Competição - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1514).
+* Hello Galaxy - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1515).
+* Imagem - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1516).
+* Maçãs - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1517).
+* Tartarugas - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1518).
 
 
 Última atualização: 14/05/2023.
