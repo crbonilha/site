@@ -4,6 +4,9 @@ languageCode = "en-us"
 paginate = 10
 title = "crbonilha's blog"
 
+# analytics
+googleAnalytics = "G-CK36J4P8FE"
+
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 DefaultContentLanguage = "pt-br"
