@@ -10,6 +10,9 @@ menu:
 Eu vou tentar listar aqui todos os exercícios que eu já escrevi ao longo dos últimos 10 anos.
 Talvez demore um pouco pra eu achar todos, e talvez eu esqueça alguns.
 
+No BeeCrowd tem uma lista com todos os meus problemas disponíveis lá:
+[Autores - Cristhian Bonilha](https://www.beecrowd.com.br/judge/pt/problems/author/22).
+
 ## ICPC
 
 ### Fase regional da Maratona de Programação 2022
@@ -132,5 +135,5 @@ Eu escrevi todos os problemas. [Link para o contest](https://www.beecrowd.com.br
 * Tartarugas - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1518).
 
 
-Última atualização: 14/05/2023.
+Última atualização: 28/05/2023.
 
