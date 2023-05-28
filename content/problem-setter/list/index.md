@@ -31,6 +31,22 @@ Talvez demore um pouco pra eu achar todos, e talvez eu esqueça alguns.
 * Intrepid Climber - [Caderno de problemas](http://maratona.sbc.org.br/hist/2014/resultados14/icpcla2014/contest_onesided.pdf) (problema I).
 
 
+## 1a Maratona de Programação do Sul (2021)
+
+* Clickbait - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/3351).
+
+
+## II Maratona de Programação do Norte (2018)
+
+* Estados do Norte - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2803).
+* Ingredientes Típicos - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2806).
+* Coral Nortista \* - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2799).
+
+\* O problema Coral Nortista tá na lista mas ele não tem a solução que eu esperava. Basicamente
+eu achava que dava pra resolver usando programação dinâmica, mas não se trata de uma DAG,
+portanto ele não é um problema válido.
+
+
 ## Contest Natal 2017
 
 * Tempo do Duende - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2717).
