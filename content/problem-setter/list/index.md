@@ -39,6 +39,18 @@ No BeeCrowd tem uma lista com todos os meus problemas disponíveis lá:
 * Clickbait - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/3351).
 
 
+## Liga de Programação 2020 - Etapa 4
+
+* i18n - [NepsAcademy](https://neps.academy/br/exercise/898).
+* Desperados - [NepsAcademy](https://neps.academy/br/exercise/899).
+* Rotacionando na Colina - [NepsAcademy](https://neps.academy/br/exercise/999).
+
+
+## Liga de Programação 2020 - Etapa 2
+
+* Compressão de Rotas - [NepsAcademy](https://neps.academy/br/exercise/762).
+
+
 ## II Maratona de Programação do Norte (2018)
 
 * Estados do Norte - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2803).
@@ -135,5 +147,10 @@ Eu escrevi todos os problemas. [Link para o contest](https://www.beecrowd.com.br
 * Tartarugas - [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1518).
 
 
-Última atualização: 28/05/2023.
+## Não lembro da fonte
+
+* Ganhando Prêmios - [NepsAcademy](https://neps.academy/br/exercise/1357).
+
+
+Última atualização: 03/06/2023.
 
