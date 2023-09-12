@@ -15,6 +15,10 @@ No BeeCrowd tem uma lista com todos os meus problemas disponíveis lá:
 
 ## ICPC
 
+### Fase regional da Maratona de Programação 2023
+
+* Caminhada na Montanha - [Caderno de problemas](https://maratona.sbc.org.br/eventos/2023/Primeira/contest/maratona.pdf) (problema C).
+
 ### Fase regional da Maratona de Programação 2022
 
 * Números Virados - [Caderno de problemas](http://maratona.sbc.org.br/hist/2022/primfase22/reports/problems/maratona.pdf) (problema N).
